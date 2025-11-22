@@ -1,0 +1,10 @@
+import turtle as t
+t.pencolor("blue")
+t.fd(100)
+t.lt(120)
+t.pencolor("red")
+t.fd(100)
+t.lt(120)
+t.pencolor("green")
+t.fd(100)
+t.lt(120)
